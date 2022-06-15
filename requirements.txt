@@ -1,0 +1,11 @@
+seaborn
+streamlit==0.60.0
+numpy
+pandas
+matplotlib
+plotly
+numerize
+scikit-learn
+sklearn
+pickle-mixin
+pickle
